@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: /
-featuredImage: /images/logo.png
-title: Sirio
-subtitle: la stella del benessere
+featuredImage: /images/istockphoto-492150170-170667a.jpeg
+title: "Essenza "
+subtitle: hair stylist
 focusmessage:
   messagedate: ""
   messagetitle: ""
