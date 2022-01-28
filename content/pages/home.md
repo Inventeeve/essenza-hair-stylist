@@ -128,7 +128,7 @@ contacts:
   contacttitle: Contattaci
   contactdescription: Per informazioni é possibile mandare una mail, invece per
     appuntamento é necessario chiamare. Chiuso il lunedì, dal martedì al sabato
-    9.00-12.00/14.00-18.30
+    9.30-19.30
   contactaddress:
     contactstreet: Via Carlo Romanò 30
     contactcity: Cesate (MI)
