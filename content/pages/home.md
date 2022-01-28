@@ -3,7 +3,7 @@ template: HomePage
 slug: /
 featuredImage: /images/istockphoto-492150170-170667a.jpeg
 title: "Essenza "
-subtitle: hair stylist
+subtitle: hair stylist & beauty center
 focusmessage:
   messagedate: ""
   messagetitle: ""
