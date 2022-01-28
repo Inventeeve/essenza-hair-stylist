@@ -130,14 +130,14 @@ contacts:
     appuntamento é necessario chiamare. Chiuso il lunedì, dal martedì al sabato
     9.00-12.00/14.00-18.30
   contactaddress:
-    contactstreet: "Via Marconi 7 "
-    contactcity: Cogliate (MB)
-  contactphone: +39 02 99068753/333 8297248
-  contactemail: massi.laura26@hotmail.it
+    contactstreet: Via Carlo Romanò 30
+    contactcity: Cesate (MI)
+  contactphone: 02 82872830
+  contactemail: essenzahairbeauty@libero.it
 footer:
   social:
-    facebook: https://www.facebook.com/Summa.Laura.77
-    instagram: https://www.instagram.com/sirio.lastelladelbenessere/
+    facebook: ""
+    instagram: ""
     twitter: ""
 description: Sirio la stella del benessere e' un centro estetico sito in
   Cogliate specializzato in diverse tipologie di trattamenti estetici,
