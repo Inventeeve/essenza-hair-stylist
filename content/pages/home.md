@@ -6,7 +6,11 @@ title: "Essenza "
 subtitle: hair stylist & beauty center
 focusmessage:
   messagedate: ""
-  messagetitle: ""
+  messagetitle: Noi siamo "Essenza" salone di parrucchiera ed estetica dove la
+    nostra professionalità ed esperienza sono al servizio della tua bellezza. Ad
+    accoglierti troverai un personale qualificato, che con passione e dedizione,
+    si avvale delle migliori materie prime naturali. Qui puoi vivere
+    un'esperienza unica.
   messagedescription: Trattamenti SPA, trattamenti viso antirughe, filler, acido
     glicolico, trattamenti corpo modellanti anticellulite con bagni di vapore,
     pedicure curativo, ricostruzione unghie, smalto semipermanente, depilazione,
