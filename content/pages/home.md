@@ -3,10 +3,14 @@ template: HomePage
 slug: /
 featuredImage: /images/istockphoto-492150170-170667a.jpeg
 title: "Essenza "
-subtitle: hair stylist
+subtitle: hair stylist & beauty center
 focusmessage:
   messagedate: ""
-  messagetitle: ""
+  messagetitle: Noi siamo "Essenza" salone di parrucchiera ed estetica dove la
+    nostra professionalità ed esperienza sono al servizio della tua bellezza. Ad
+    accoglierti troverai un personale qualificato, che con passione e dedizione,
+    si avvale delle migliori materie prime naturali. Qui puoi vivere
+    un'esperienza unica.
   messagedescription: Trattamenti SPA, trattamenti viso antirughe, filler, acido
     glicolico, trattamenti corpo modellanti anticellulite con bagni di vapore,
     pedicure curativo, ricostruzione unghie, smalto semipermanente, depilazione,
@@ -124,16 +128,16 @@ contacts:
   contacttitle: Contattaci
   contactdescription: Per informazioni é possibile mandare una mail, invece per
     appuntamento é necessario chiamare. Chiuso il lunedì, dal martedì al sabato
-    9.00-12.00/14.00-18.30
+    9.30-19.30
   contactaddress:
-    contactstreet: "Via Marconi 7 "
-    contactcity: Cogliate (MB)
-  contactphone: +39 02 99068753/333 8297248
-  contactemail: massi.laura26@hotmail.it
+    contactstreet: Via Carlo Romanò 30
+    contactcity: Cesate (MI)
+  contactphone: 02 82872830
+  contactemail: essenzahairbeauty@libero.it
 footer:
   social:
-    facebook: https://www.facebook.com/Summa.Laura.77
-    instagram: https://www.instagram.com/sirio.lastelladelbenessere/
+    facebook: ""
+    instagram: ""
     twitter: ""
 description: Sirio la stella del benessere e' un centro estetico sito in
   Cogliate specializzato in diverse tipologie di trattamenti estetici,
