@@ -4,6 +4,11 @@ slug: /
 featuredImage: /images/istockphoto-492150170-170667a.jpeg
 title: "Essenza "
 subtitle: hair stylist & beauty center
+description: Noi siamo "Essenza" salone di parrucchiere ed estetica dove la
+  nostra professionalità ed esperienza sono al servizio della tua bellezza. Ad
+  accoglierti troverai un personale qualificato che, con passione e dedizione,
+  si avvale delle migliori materie prime naturali per farti vivere un'esperienza
+  unica.
 focusmessage:
   messagedate: ""
   messagetitle: Noi siamo "Essenza" salone di parrucchiera ed estetica dove la
@@ -28,46 +33,46 @@ prices:
   priceslist:
     - category: Trattamenti Corpo
       entries:
-        - label: Trattamento pelle di seta
+        - label: Piega
+          price: 17
+        - label: Piega textured
+          price: 20
+        - label: Maschera colorata
+          price: 6
+        - label: Maschera
+          price: 5
+        - label: Maschera keratina
+          price: 10
+        - label: "Schiuma "
+          price: 2
+        - label: Taglio
+          price: 17
+        - label: Taglio uomo
+          price: 17
+        - label: Bagno di colore
+          price: 22
+        - label: Colore
+          price: 25
+        - label: Mèches
           price: 35
-        - label: Trattamento pelle di seta con Thermalie
-          price: 55
-        - label: Trattamento riducente no cell
-          price: 55
-        - label: Trattamento tonic up
+        - label: Shatush degradè
           price: 45
-        - label: Massaggio relax total body 1 ora
-          price: 60
-        - label: Massaggio relax parziale mezz'ora
-          price: 30
-        - label: Rituale spa con thermalie da 55€ a 85€
-          price: 55
-        - label: Thermalie bagno di vapore con sale marino
-          price: 40
-        - label: Pressoterapia
-          price: 35
-        - label: R.E.M. ultrasuoni
-          price: 45
-        - label: Linfodrenaggio parziale 45 min
-          price: 40
-        - label: Linfodrenaggio intero 75 min
-          price: 70
     - category: Trattamenti Viso
       entries:
-        - label: Pulizia viso profonda
-          price: 38
-        - label: Trattamento olos age
-          price: 56
-        - label: Trattamento filler
-          price: 80
-        - label: Trattamento acido glicolico
-          price: 55
-        - label: Trattamento age energy
-          price: 56
-        - label: Trattamento calming/couperose
-          price: 45
-        - label: Trattamento purificante acne
-          price: 45
+        - label: Ristrutturante
+          price: 3
+        - label: Keratin liss + mantenimento
+          price: 140
+        - label: Keratina disciplinante
+          price: 40
+        - label: Permanente
+          price: 30
+        - label: Extension a partire da 180
+          price: 180
+        - label: Raccolto
+          price: 30
+        - label: Servizio sposa
+          price: 180
         - label: Trattamento elisir di giovinezza
           price: 60
         - label: Trattamento liftante
@@ -139,7 +144,4 @@ footer:
     facebook: ""
     instagram: ""
     twitter: ""
-description: Sirio la stella del benessere e' un centro estetico sito in
-  Cogliate specializzato in diverse tipologie di trattamenti estetici,
-  personalizzati ed avanzati.
 ---
