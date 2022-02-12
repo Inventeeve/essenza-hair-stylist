@@ -39,7 +39,7 @@ prices:
         - label: Taglio uomo
           price: 17
         - label: Raccolto
-          price: 27
+          price: 30
         - label: LOREM IPSUM
           price: 2
         - label: LOREM IPSUM
@@ -59,13 +59,13 @@ prices:
         - label: Maschera colorata
           price: 6
         - label: Maschera keratina
-          price: 9
+          price: 10
         - label: Keratina disciplinante
           price: 40
         - label: Keratin liss + mantenimento
           price: 140
         - label: LOREM IPSUM
-          price: 0
+          price: 2
         - label: LOREM IPSUM
           price: 2
         - label: LOREM IPSUM
@@ -77,7 +77,7 @@ prices:
     - category: Servizi tecnici
       entries:
         - label: Bagno di colore
-          price: 20
+          price: 22
         - label: Colore
           price: 25
         - label: Mèches
