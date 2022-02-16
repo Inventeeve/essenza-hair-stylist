@@ -40,20 +40,6 @@ prices:
           price: 17
         - label: Raccolto
           price: 30
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 0
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 0
-        - label: LOREM IPSUM
-          price: 2
     - category: Trattamenti
       entries:
         - label: Maschera colorata
