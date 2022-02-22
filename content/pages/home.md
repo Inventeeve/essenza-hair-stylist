@@ -50,16 +50,6 @@ prices:
           price: 40
         - label: Keratin liss + mantenimento
           price: 140
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 1
-        - label: LOREM IPSUM
-          price: 1
-        - label: LOREM IPSUM
-          price: 2
     - category: Servizi tecnici
       entries:
         - label: Bagno di colore
@@ -72,26 +62,12 @@ prices:
           price: 45
         - label: Permanente
           price: 30
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
     - category: Special
       entries:
         - label: Extension da
           price: 200
         - label: Servizio sposa da
           price: 180
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
     - category: LOREM IPSUM
       entries:
         - label: LOREM IPSUM
