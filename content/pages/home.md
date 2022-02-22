@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: /
-featuredImage: /images/istockphoto-492150170-170667a.jpeg
+featuredImage: /images/logo_essenza.png
 title: "Essenza "
 subtitle: hair stylist & beauty center
 description: Noi siamo "Essenza" salone di parrucchiere ed estetica dove la
