@@ -23,7 +23,7 @@ blurbs:
     image: /images/biokera_02.jpg
   - title: BLUE ANTIOX
     body: Nuova vitalità per la pelle spenta e stressata
-    image: /images/pelle-spenta-e-tressata.jpg
+    image: /images/biokera_01.jpg
 prices:
   pricestitle: Listino Prezzi
   pricesdescription: Il costo di alcuni trattamenti verrà concordato in negozio con il cliente.
