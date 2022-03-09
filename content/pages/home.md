@@ -68,26 +68,6 @@ prices:
           price: 200
         - label: Servizio sposa da
           price: 180
-    - category: LOREM IPSUM
-      entries:
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-    - category: LOREM IPSUM
-      entries:
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
-        - label: LOREM IPSUM
-          price: 2
 contacts:
   contacttitle: Contattaci
   contactdescription: Per informazioni é possibile mandare una mail, invece per
