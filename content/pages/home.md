@@ -18,11 +18,17 @@ focusmessage:
     un'esperienza unica.
   messagedescription: ""
 blurbs:
-  - title: NO CELL (Anti-Cellulite e Anti-Age)
-    body: Per combattere cellulite ed invecchiamento cutaneo
+  - title: ARGAN (shampoo con olio di Argan, maschera, arganology)
+    body: Shampoo con olio di Argan, glicerina e derivato della gomma del guar con
+      effetto antiossidante e protettivo. Maschera per capelli con olio di
+      Argan, glicerina e cheratina per idratare il capello. Arganology per
+      donare luminosità'
     image: /images/biokera_02.jpg
-  - title: BLUE ANTIOX
-    body: Nuova vitalità per la pelle spenta e stressata
+  - title: GRAPEOLOGY (shampoo all'olio degli acini d'uva, mask grapeology,
+      grapeology)
+    body: Lo shampoo Deterge i capelli delicatamente, mentre li nutre e li idrata.
+      Mask grapeology ammorbidisce i capelli in profondità. Grapeology, l'olio a
+      base di acini d'uva idrata intensamente e migliora la lucentezza.
     image: /images/biokera_01.jpg
 prices:
   pricestitle: Listino Prezzi
