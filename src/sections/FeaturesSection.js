@@ -3,15 +3,21 @@ import ReactMarkdow from "react-markdown"
 
 const FeaturesSection = ({ focusMessage, blurbs }) => (
   <>
-    <div className="py-12 bg-white" id="blurbs">
+    <div className="py-4 bg-white md:py-12" id="blurbs">
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         {focusMessage && (
           <div className="sm:text-center">
-            <p className="text-base leading-6 text-green-600 font-semibold tracking-wide uppercase">
+            <p className="text-base leading-6 text-teal-600 font-semibold tracking-wide uppercase">
               {focusMessage.messagedate}
             </p>
-            <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
+            <h3 className="py-8 text-xl max-w-4xl mx-auto leading-8 font-light tracking-tight text-gray-900 md:text-2xl sm:leading-10 text-center">
+              <span className="text-2xl md:text-4xl font-bold text-teal-600 pr-2">
+                &#8220;
+              </span>
               {focusMessage.messagetitle}
+              <span className="text-2xl md:text-4xl font-bold text-teal-600 pl-2">
+                &#8221;
+              </span>
             </h3>
             <p className="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
               {focusMessage.messagedescription}

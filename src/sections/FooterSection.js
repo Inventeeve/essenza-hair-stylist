@@ -6,7 +6,7 @@ const FooterSection = ({ social }) => (
     <div className="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
       <div className="mt-8 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between">
         <div className="flex space-x-6 md:order-2">
-          {social?.facebook !== "null" && (
+          {social?.facebook && (
             <a href="/#" className="text-gray-400 hover:text-gray-500">
               <span className="sr-only">Facebook</span>
               <svg
@@ -23,10 +23,10 @@ const FooterSection = ({ social }) => (
               </svg>
             </a>
           )}
-          {social?.instagram !== "null" && (
+          {social?.instagram && (
             <a href="#/" className="text-gray-400 hover:text-gray-500">
               <span className="sr-only">Instagram</span>
-              <InstagramIcon className="h-6 w-6"/>
+              <InstagramIcon className="h-6 w-6" />
             </a>
           )}
           {social?.twitter && (
@@ -44,7 +44,7 @@ const FooterSection = ({ social }) => (
           )}
         </div>
         <p className="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">
-          &copy; 2021 Inventeeve, All rights reserved.
+          &copy; 2022 Inventeeve, All rights reserved.
         </p>
       </div>
     </div>

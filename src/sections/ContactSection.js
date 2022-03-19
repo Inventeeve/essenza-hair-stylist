@@ -147,7 +147,7 @@ const ContactSection = ({ contacts }) => (
               <div className="inline-flex rounded-md">
                 <input
                   type="submit"
-                  className="inline-flex justify-center py-3 px-6 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:border-green-700 focus:shadow-outline-pink active:bg-green-700 transition duration-150 ease-in-out cursor-pointer"
+                  className="inline-flex justify-center py-3 px-6 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-600 hover:bg-teal-400 focus:outline-none focus:border-teal-700 focus:shadow-outline-pink active:bg-teal-700 transition duration-150 ease-in-out cursor-pointer"
                   value="Invia il tuo messaggio"
                 />
               </div>

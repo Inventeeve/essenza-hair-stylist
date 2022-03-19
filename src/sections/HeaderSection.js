@@ -1,6 +1,5 @@
 import React, { useState } from "react"
 import { BurgerIcon, CloseIcon } from "../components/icons"
-// import logo from "../images/logo-sirio.png"
 
 const Nav = [
   { label: "I nostri trattamenti", link: "#blurbs", type: "standard" },
@@ -18,7 +17,7 @@ const HeaderSection = ({ data }) => {
           <div className="-mr-2">
             <button
               type="button"
-              className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500"
+              className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-400"
               onClick={() => setOpenMenu(false)}
             >
               <span className="sr-only">Close main menu</span>
@@ -33,7 +32,7 @@ const HeaderSection = ({ data }) => {
               href={nav.link}
               className={`${key > 1 && "mt-1"} ${
                 nav.type === "accent"
-                  ? `text-green-600 bg-gray-50 hover:bg-gray-100 hover:text-green-700 focus:bg-gray-100 focus:text-green-700 `
+                  ? `text-teal-600 bg-gray-50 hover:bg-gray-100 hover:text-teal-700 focus:bg-gray-100 focus:text-teal-700 `
                   : `text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:text-gray-900 focus:bg-gray-50 `
               } focus:outline-none block px-3 py-2 rounded-md text-base font-medium  transition duration-150 ease-in-out`}
               role="menuitem"
@@ -55,7 +54,7 @@ const HeaderSection = ({ data }) => {
             <div className="-mr-2">
               <button
                 type="button"
-                className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500"
+                className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-400"
                 onClick={() => setOpenMenu(true)}
               >
                 <span className="sr-only">Close main menu</span>
@@ -71,7 +70,7 @@ const HeaderSection = ({ data }) => {
                   href={nav.link}
                   className={`${
                     nav.type === "accent"
-                      ? `text-green-600 hover:text-green-900`
+                      ? `text-teal-600 hover:text-teal-900`
                       : `text-gray-500 hover:text-gray-900`
                   } mx-4 font-medium transition duration-150 ease-in-out`}
                 >
@@ -89,7 +88,7 @@ const HeaderSection = ({ data }) => {
     <>
       <div className="relative bg-white overflow-hidden md:block">
         <div className="max-w-screen-xl justify-center mx-auto">
-          <div className="relative pb-8 bg-white">
+          <div className="relative sm:pb-4 md:pb-8 bg-white">
             {/* Full Menu */}
             <HeaderMenu />
 
@@ -98,22 +97,22 @@ const HeaderSection = ({ data }) => {
             {/* <HeaderMenuMobile /> */}
 
             <main className="mx-auto max-w-screen-xl px-4 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 md:flex justify-between">
-              <div className="sm:text-center lg:text-left">
+              <div className="sm:text-center lg:text-left flex-1">
                 <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
                   {data.title}
                   <br />
                 </h2>
-                <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-green-600 sm:text-4xl sm:leading-none md:text-4xl">
+                <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-teal-600 sm:text-4xl sm:leading-none md:text-4xl">
                   {data.subtitle}
                 </h2>
-                <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:mx-auto md:mt-5 md:text-xl lg:mx-0 flex-1">
                   {data.description}
                 </p>
                 <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   <div className="rounded-md shadow">
                     <a
                       href="#blurbs"
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:border-green-700 focus:shadow-outline-green transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-600 hover:bg-teal-400 focus:outline-none focus:border-teal-700 focus:shadow-outline-green transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                     >
                       Scopri di più
                     </a>
@@ -121,7 +120,7 @@ const HeaderSection = ({ data }) => {
                   <div className="mt-3 sm:mt-0 sm:ml-3">
                     <a
                       href="#contacts"
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-green-700 bg-green-100 hover:text-green-600 hover:bg-green-50 focus:outline-none focus:shadow-outline-green focus:border-green-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-teal-700 bg-teal-100 hover:text-teal-600 hover:bg-teal-50 focus:outline-none focus:shadow-outline-green focus:border-teal-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                     >
                       Contattaci
                     </a>
@@ -130,7 +129,7 @@ const HeaderSection = ({ data }) => {
               </div>
               <img
                 className="w-full mx-auto sm:mx-0 md:my-6 my-12"
-                style={{ maxWidth: "300px" }}
+                style={{ maxWidth: "340px" }}
                 src={data.featuredImage}
                 alt="featured"
               />

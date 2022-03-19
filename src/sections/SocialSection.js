@@ -50,7 +50,7 @@ const SocialSection = ({ posts }) => {
                   </div>
                   <div className="flex-1 bg-white p-6 flex flex-col justify-between">
                     <div className="flex-1">
-                      <p className="text-sm leading-5 font-medium text-green-600 flex items-center">
+                      <p className="text-sm leading-5 font-medium text-teal-600 flex items-center">
                         <InstagramIcon className="h-6 w-6 mr-2" />
                         <a
                           href={`https://instagram.com/p/${id}`}
