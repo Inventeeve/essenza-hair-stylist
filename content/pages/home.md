@@ -3,12 +3,12 @@ template: HomePage
 slug: /
 featuredImage: /images/logo_essenza.png
 title: "Essenza "
-subtitle: hair stylist & beauty center
-description: Noi siamo "Essenza" salone di parrucchiere ed estetica dove la
-  nostra professionalità ed esperienza sono al servizio della tua bellezza. Ad
+subtitle: hair stylist di Francesca Borroni
+description: "\"Essenza\" hair stylist salone di parrucchiere dove la nostra
+  professionalità ed esperienza sono al servizio della tua bellezza. Ad
   accoglierti troverai un personale qualificato che, con passione e dedizione,
   si avvale delle migliori materie prime naturali per farti vivere un'esperienza
-  unica.
+  unica."
 focusmessage:
   messagedate: ""
   messagetitle: Noi siamo "Essenza" salone di parrucchiera ed estetica dove la
@@ -56,6 +56,16 @@ prices:
           price: 40
         - label: Keratin liss + mantenimento
           price: 140
+        - label: Peeling argilla
+          price: 10
+        - label: Anticrespo
+          price: 15
+        - label: Anticaduta
+          price: 5
+        - label: Antigrasso
+          price: 5
+        - label: Antiforfora
+          price: 5
     - category: Servizi tecnici
       entries:
         - label: Bagno di colore
@@ -74,6 +84,8 @@ prices:
           price: 200
         - label: Servizio sposa da
           price: 180
+        - label: Laminazione
+          price: 30
 contacts:
   contacttitle: Contattaci
   contactdescription: Per informazioni é possibile mandare una mail, invece per
