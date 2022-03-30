@@ -85,7 +85,7 @@ prices:
         - label: Servizio sposa da
           price: 180
         - label: Laminazione
-          price: 30
+          price: 32
 contacts:
   contacttitle: Contattaci
   contactdescription: Per informazioni é possibile mandare una mail, invece per
