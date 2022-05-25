@@ -18,12 +18,11 @@ focusmessage:
     un'esperienza unica.
   messagedescription: ""
 blurbs:
-  - title: ARGAN (shampoo con olio di argan, maschera, arganology)
-    body: Shampoo con olio di argan, glicerina e derivato della gomma del guar con
-      effetto antiossidante e protettivo. Maschera per capelli con olio di
-      argan, glicerina e cheratina per idratare il capello. Arganology per
-      donare luminosità'
-    image: /images/biokera_02.jpg
+  - title: IDRATANTE (shampoo e maschera idratante)
+    body: Ideale per i capelli che hanno bisogno di essere idratati. Dona
+      un'idratazione di lunga durata grazie all'olio di germe di grano che rende
+      i capelli più' districabili, morbidi e lucenti.
+    image: /images/biokera_03.jpg
   - title: GRAPEOLOGY (shampoo all'olio degli acini d'uva, mask grapeology,
       grapeology)
     body: Lo shampoo deterge i capelli delicatamente, mentre li nutre e li idrata.
