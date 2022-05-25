@@ -48,9 +48,9 @@ prices:
       entries:
         - label: Maschera colorata
           price: 6
-        - label: Maschera keratina
+        - label: Maschera cheratina
           price: 10
-        - label: Keratina disciplinante
+        - label: Cheratina disciplinante
           price: 40
         - label: Keratin liss + mantenimento
           price: 140
