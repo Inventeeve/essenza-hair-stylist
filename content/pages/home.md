@@ -23,7 +23,7 @@ blurbs:
       un'idratazione di lunga durata grazie all'olio di germe di grano che rende
       i capelli più' districabili, morbidi e lucenti.
     image: /images/biokera_03.jpg
-  - title: KERATINA SHOT (co-wash)
+  - title: KERATIN SHOT (co-wash)
     body: Formula Co-Wash professionale con cheratina che dona un effetto liscio
       duraturo e progressivo con 1 solo passaggio. Protegge la fibra capillare e
       riduce il volume e l'increspamento. Applicazione più rapida ed efficace.
