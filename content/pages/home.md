@@ -23,12 +23,11 @@ blurbs:
       un'idratazione di lunga durata grazie all'olio di germe di grano che rende
       i capelli più' districabili, morbidi e lucenti.
     image: /images/biokera_03.jpg
-  - title: GRAPEOLOGY (shampoo all'olio degli acini d'uva, mask grapeology,
-      grapeology)
-    body: Lo shampoo deterge i capelli delicatamente, mentre li nutre e li idrata.
-      Mask grapeology ammorbidisce i capelli in profondità. Grapeology, l'olio a
-      base di acini d'uva idrata intensamente e migliora la lucentezza.
-    image: /images/biokera_01.jpg
+  - title: KERATINA SHOT (co-wash)
+    body: Formula Co-Wash professionale con cheratina che dona un effetto liscio
+      duraturo e progressivo con 1 solo passaggio. Protegge la fibra capillare e
+      riduce il volume e l'increspamento. Applicazione più rapida ed efficace.
+    image: /images/biokera_04.jpg
 prices:
   pricestitle: Listino Prezzi
   pricesdescription: Il costo di alcuni trattamenti verrà concordato in negozio con il cliente.
