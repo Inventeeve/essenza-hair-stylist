@@ -2,8 +2,8 @@
 template: HomePage
 slug: /
 featuredImage: /images/logo_essenza.png
-title: "Essenza "
-subtitle: hair stylist di Francesca Borroni
+title: Chiusura dal 7 al 22 Agosto
+subtitle: Essenza hair stylist di Francesca Borroni
 description: "\"Essenza\" hair stylist salone di parrucchiere dove la nostra
   professionalità ed esperienza sono al servizio della tua bellezza. Ad
   accoglierti troverai un personale qualificato che, con passione e dedizione,
