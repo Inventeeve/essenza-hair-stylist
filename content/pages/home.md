@@ -18,11 +18,10 @@ focusmessage:
     un'esperienza unica.
   messagedescription: ""
 blurbs:
-  - title: IDRATANTE (shampoo e maschera idratante)
-    body: Ideale per i capelli che hanno bisogno di essere idratati. Dona
-      un'idratazione di lunga durata grazie all'olio di germe di grano che rende
-      i capelli più' districabili, morbidi e lucenti.
-    image: /images/biokera_03.jpg
+  - title: LINEA SOLARE TATAHI DI MIYA
+    body: Linea solare Tatahi di Miya con olio di argan bio, olio di macadamia bio e
+      acidi della frutta.
+    image: /images/solari_01.jpeg
   - title: KERATIN SHOT (co-wash)
     body: Formula Co-Wash professionale con cheratina che dona un effetto liscio
       duraturo e progressivo con 1 solo passaggio. Protegge la fibra capillare e
