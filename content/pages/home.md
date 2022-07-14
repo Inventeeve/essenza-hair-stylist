@@ -21,7 +21,7 @@ blurbs:
   - title: LINEA SOLARE TATAHI DI MIYA
     body: Linea solare Tatahi di Miya con olio di argan bio, olio di macadamia bio e
       acidi della frutta.
-    image: /images/solari_01.jpeg
+    image: /images/solari_01.jpg
   - title: KERATIN SHOT (co-wash)
     body: Formula Co-Wash professionale con cheratina che dona un effetto liscio
       duraturo e progressivo con 1 solo passaggio. Protegge la fibra capillare e
