@@ -2,8 +2,8 @@
 template: HomePage
 slug: /
 featuredImage: /images/logo_essenza.png
-title: Essenza hair stylist
-subtitle: " di Francesca Borroni"
+title: Essenza hair stylist di Francesca Borroni
+subtitle: ""
 description: "\"Essenza\" hair stylist salone di parrucchiere dove la nostra
   professionalità ed esperienza sono al servizio della tua bellezza. Ad
   accoglierti troverai un personale qualificato che, con passione e dedizione,
