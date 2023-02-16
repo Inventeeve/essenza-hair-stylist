@@ -18,10 +18,10 @@ focusmessage:
     un'esperienza unica.
   messagedescription: ""
 blurbs:
-  - title: KERATIN SHOT (co-wash)
-    body: Formula Co-Wash professionale con cheratina che dona un effetto liscio
-      duraturo e progressivo con 1 solo passaggio. Protegge la fibra capillare e
-      riduce il volume e l'increspamento. Applicazione più rapida ed efficace.
+  - title: GREEN SHOT - IDRATA E DISINTOSSICA
+    body: Linea purificante e disintossicante che combatte lo stress della nostra
+      vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
+      mela per un'esperienza YUMMY!
     image: /images/green_shot.jpg
 prices:
   pricestitle: Listino Prezzi
