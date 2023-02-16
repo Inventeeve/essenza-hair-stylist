@@ -23,6 +23,11 @@ blurbs:
       vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
       mela per un'esperienza YUMMY!
     image: /images/green_shot.jpg
+  - image: /images/yellow_shot.jpg
+    title: YELLOW SHOT - RIPARA E PROTEGGE
+    body: Linea riparatrice e protettiva in grado di recuperare i capelli
+      danneggiati dalle aggressioni esterne. Unica ricarica di vitamine e
+      minerali.
 prices:
   pricestitle: Listino Prezzi
   pricesdescription: Il costo di alcuni trattamenti verrà concordato in negozio con il cliente.
