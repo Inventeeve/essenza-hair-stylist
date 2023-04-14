@@ -3,7 +3,7 @@ template: HomePage
 slug: /
 featuredImage: /images/logo_essenza.png
 title: Essenza hair stylist di Francesca Borroni
-subtitle: Francesca Borroni  chiusura 11 Aprile
+subtitle: ""
 description: "\"Essenza\" hair stylist salone di parrucchiere dove la nostra
   professionalità ed esperienza sono al servizio della tua bellezza. Ad
   accoglierti troverai un personale qualificato che, con passione e dedizione,
@@ -22,7 +22,7 @@ blurbs:
     body: Linea purificante e disintossicante che combatte lo stress della nostra
       vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
       mela per un'esperienza YUMMY!
-    image: /images/green_shot.jpg
+    image: /images/green_shot01.jpg
   - image: /images/yellow_shot.jpg
     title: YELLOW SHOT - RIPARA E PROTEGGE
     body: Linea riparatrice e protettiva in grado di recuperare i capelli
