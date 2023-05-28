@@ -22,7 +22,7 @@ blurbs:
     body: Linea purificante e disintossicante che combatte lo stress della nostra
       vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
       mela per un'esperienza YUMMY!
-    image: /images/green_shot.jpg
+    image: /images/yellow_shot.jpg
   - image: /images/yellow_shot.jpg
     title: YELLOW SHOT - RIPARA E PROTEGGE
     body: Linea riparatrice e protettiva in grado di recuperare i capelli
