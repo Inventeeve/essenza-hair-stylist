@@ -8,7 +8,7 @@ description: "\"Essenza\" hair stylist salone di parrucchiere dove la nostra
   professionalità ed esperienza sono al servizio della tua bellezza. Ad
   accoglierti troverai un personale qualificato che, con passione e dedizione,
   si avvale delle migliori materie prime naturali per farti vivere un'esperienza
-  unica."
+  unica"
 focusmessage:
   messagedate: ""
   messagetitle: Noi siamo "Essenza" salone di parrucchiera ed estetica dove la
