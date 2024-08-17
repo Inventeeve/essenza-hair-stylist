@@ -35,7 +35,7 @@ prices:
     - category: Listino base
       entries:
         - label: Piega
-          price: 20
+          price: 17
         - label: Piega textured
           price: 20
         - label: Taglio moda
