@@ -38,28 +38,28 @@ prices:
           price: 17
         - label: Piega textured
           price: 20
-        - label: Taglio moda
-          price: 17
+        - label: Taglio
+          price: 20
         - label: Taglio uomo
-          price: 17
+          price: 20
         - label: Raccolto
           price: 30
     - category: Trattamenti
       entries:
         - label: Maschera colorata
           price: 6
-        - label: Maschera cheratina
+        - label: Maschera keratina
           price: 10
-        - label: Cheratina disciplinante
-          price: 40
+        - label: Keratina disciplinante
+          price: 80
         - label: Keratin liss + mantenimento
           price: 140
         - label: Peeling argilla
           price: 10
         - label: Anticrespo
           price: 15
-        - label: Anticaduta
-          price: 5
+        - label: Schiuma
+          price: 2
         - label: Antigrasso
           price: 5
         - label: Antiforfora
@@ -67,21 +67,21 @@ prices:
     - category: Servizi tecnici
       entries:
         - label: Bagno di colore
-          price: 22
+          price: 30
         - label: Colore
-          price: 25
+          price: 33
         - label: Mèches
-          price: 35
+          price: 40
         - label: Shatush degradè
           price: 45
         - label: Permanente
-          price: 30
+          price: 35
     - category: Special
       entries:
         - label: Extension da
-          price: 200
-        - label: Servizio sposa da
           price: 180
+        - label: Servizio sposa da
+          price: 200
         - label: Laminazione
           price: 32
 contacts:
