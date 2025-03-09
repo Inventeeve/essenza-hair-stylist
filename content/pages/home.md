@@ -54,16 +54,22 @@ prices:
           price: 80
         - label: Keratin liss + mantenimento
           price: 140
-        - label: Peeling argilla
-          price: 10
+        - label: Trattamento Detox
+          price: 15
+        - label: Trattamento Botox
+          price: 25
         - label: Anticrespo
           price: 15
-        - label: Schiuma
-          price: 2
         - label: Antigrasso
           price: 5
         - label: Antiforfora
           price: 5
+        - label: Schiuma
+          price: 2
+        - label: Maschera
+          price: 5
+        - label: Bio Plastia piu' mantenimento
+          price: 120
     - category: Servizi tecnici
       entries:
         - label: Bagno di colore
