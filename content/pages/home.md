@@ -18,11 +18,11 @@ focusmessage:
     un'esperienza unica.
   messagedescription: ""
 blurbs:
-  - title: GREEN SHOT - IDRATA E DISINTOSSICA
+  - title: BIOKERA NATURA
     body: Linea purificante e disintossicante che combatte lo stress della nostra
       vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
       mela per un'esperienza YUMMY!
-    image: /images/solari_01.jpg
+    image: /images/biokerat.jpg
   - image: /images/solari_01.jpg
     title: YELLOW SHOT - RIPARA E PROTEGGE
     body: Linea riparatrice e protettiva in grado di recuperare i capelli
