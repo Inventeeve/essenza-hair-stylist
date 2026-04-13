@@ -25,9 +25,9 @@ blurbs:
     image: /images/biokerat.jpg
   - image: /images/scan-01.jpg.jpeg
     title: LINEA PROFESSIONALE DI SALERM COSMETICS
-    body: Linea riparatrice e protettiva in grado di recuperare i capelli
-      danneggiati dalle aggressioni esterne. Unica ricarica di vitamine e
-      minerali.
+    body: Ispirata dalla natura e dai suoi ingredienti, Biokera Natura offre
+      un'ampia gamma di trattamenti intensivi che combinano le conoscenze
+      botaniche con la tecnologia più avanzata.
 prices:
   pricestitle: Listino Prezzi
   pricesdescription: Il costo di alcuni trattamenti verrà concordato in negozio con il cliente.
