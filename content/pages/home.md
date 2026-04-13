@@ -35,11 +35,11 @@ prices:
     - category: Listino base
       entries:
         - label: Piega
-          price: 17
+          price: 18
         - label: Piega textured
           price: 20
-        - label: Taglio
-          price: 20
+        - label: Taglio + Piega
+          price: 45
         - label: Taglio uomo
           price: 20
         - label: Raccolto
@@ -68,7 +68,7 @@ prices:
           price: 2
         - label: Maschera
           price: 5
-        - label: Bio Plastia piu' mantenimento
+        - label: Bio Plastia + mantenimento
           price: 120
     - category: Servizi tecnici
       entries:
@@ -86,7 +86,7 @@ prices:
       entries:
         - label: Extension da
           price: 180
-        - label: Servizio sposa da
+        - label: Servizio sposa
           price: 200
         - label: Laminazione
           price: 32
