@@ -24,7 +24,7 @@ blurbs:
       mela per un'esperienza YUMMY!
     image: /images/biokerat.jpg
   - image: /images/scan-01.jpg.jpeg
-    title: YELLOW SHOT - RIPARA E PROTEGGE
+    title: LINEA PROFESSIONALE DI SALERM COSMETICS
     body: Linea riparatrice e protettiva in grado di recuperare i capelli
       danneggiati dalle aggressioni esterne. Unica ricarica di vitamine e
       minerali.
