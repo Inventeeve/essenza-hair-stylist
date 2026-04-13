@@ -19,9 +19,9 @@ focusmessage:
   messagedescription: ""
 blurbs:
   - title: BIOKERA NATURA
-    body: Linea purificante e disintossicante che combatte lo stress della nostra
-      vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
-      mela per un'esperienza YUMMY!
+    body: Biokera Natura è una linea professionale di Salerm Cosmetics formulata con
+      ingredienti naturali di alta qualità per risultati eccezionali sui capelli
+      e cuoio capelluto.
     image: /images/biokerat.jpg
   - image: /images/scan-01.jpg.jpeg
     title: LINEA PROFESSIONALE DI SALERM COSMETICS
