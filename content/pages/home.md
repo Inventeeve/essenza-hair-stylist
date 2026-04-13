@@ -23,7 +23,7 @@ blurbs:
       vita quotidiana. Capelli con piu' vitalità e freschezza. Con un aroma di
       mela per un'esperienza YUMMY!
     image: /images/biokerat.jpg
-  - image: /images/solari_01.jpg
+  - image: /images/biokera_02.jpg
     title: YELLOW SHOT - RIPARA E PROTEGGE
     body: Linea riparatrice e protettiva in grado di recuperare i capelli
       danneggiati dalle aggressioni esterne. Unica ricarica di vitamine e
