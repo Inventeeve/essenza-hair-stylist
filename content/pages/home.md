@@ -58,8 +58,6 @@ prices:
           price: 15
         - label: Trattamento Botox
           price: 25
-        - label: Anticrespo
-          price: 15
         - label: Antigrasso
           price: 5
         - label: Antiforfora
